@@ -11,7 +11,7 @@ by Luka Jakovljevic<sup>1,2</sup>, Dimitre Kostadinov<sup>1</sup>, Armen Aghasar
 that is presented on **The 10th International Conference on Complex Networks and their Applications**\
 *in Madrid, Spain (November 30 - December 2, 2021)* ["complexnetworks.org"](https://complexnetworks.org/)
 
-and will soon appear in **Volume 1015 of Springer - Studies in Computational Intelligence Series** 📘
+and appears in [**Volume 1015 of Springer - Studies in Computational Intelligence Series**](https://link.springer.com/chapter/10.1007/978-3-030-93409-5_40) 📘
 
 contact: luka.jakovljevic@nokia.com
 
